@@ -7,10 +7,9 @@ I'm Richard Marmito and welcome to my Github profile. Here you can find some of 
 - I am interested in RTL design, SoC validation, embedded systems, IoT, and Full Stack development.
 - I am currently expanding my skills with Microprocessors, Embedded Operating Systems, and Web Development.
 
-## Let's Collaborate
 I am always open to meet new people and create! 
 Feel free to connect with me on LinkedIn:
-https://www.linkedin.com/in/rmarmito/ 
+
 
 Happy Coding!
 
