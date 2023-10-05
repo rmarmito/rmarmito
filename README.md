@@ -1,15 +1,15 @@
-### Hello, There! 👋
+### Hello, (GitHub) World 👋 I'm Richard!
 
-I'm Richard Marmito and welcome to my Github profile. Here you can find some of my latest contributions and projects, both finished and in the works. I am very open to collaborations and feedback, so please feel free to explore and reach out!
+I am currently studying Computer Engineering at San Diego State University. I have a passion for problem solving, programming, designing, video games, and most importantly: interacting with people!
 
-## About me 
-- I am currently pursuing Computer Engineering at San Diego State University
-- I am interested in RTL design, SoC validation, embedded systems, IoT, and Full Stack development.
-- I am currently expanding my skills with Microprocessors, Embedded Operating Systems, and Web Development.
+I am a sponge -- the world of technology surprises me everyday, so I absorb and apply as much information, techniques, and practices I can! 
 
-I am always open to meet new people and create! 
-Feel free to connect with me on LinkedIn:
+- I am currently building a full-stack project: GamerMingle
+- I am currently learning: JavaScript, Bootstrap, NodeJS
 
+I am very welcoming to feedback or advice. Please feel free to reach out for either, or just to chat!
+
+🤝 Connect with me on LinkedIn
 
 Happy Coding!
 
