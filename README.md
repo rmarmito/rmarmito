@@ -2,11 +2,6 @@
 
 I am currently studying Computer Engineering at San Diego State University. I have a passion for problem solving, programming, designing, video games, and most importantly: interacting with people!
 
-I am a sponge -- the world of technology surprises me everyday, so I absorb and apply as much information, techniques, and practices I can! 
-
-- I am currently building a full-stack project: GamerMingle
-- I am currently learning: JavaScript, Bootstrap, NodeJS
-
 I am very welcoming to feedback or advice. Please feel free to reach out for either, or just to chat!
 
 🤝 Connect with me on LinkedIn
